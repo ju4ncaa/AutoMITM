@@ -1,7 +1,7 @@
 # AutoMITM
 
 <div align="center">
-  <img src="h" width="160px">
+  <img src="https://github.com/user-attachments/assets/a0f5496b-8318-4aaf-83ce-aaf575807413" width="250px">
 </div>
 
 <br>
